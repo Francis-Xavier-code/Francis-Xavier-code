@@ -1,1 +1,3 @@
-[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/francis-xavier-code?lang=zh)](https://ghfind.com/u/francis-xavier-code?ref=badge)
+# ABOUT ME
+你好，我叫 BLACK CAT.
+喜欢版本更新，每一次迭代仿佛是一次重生
